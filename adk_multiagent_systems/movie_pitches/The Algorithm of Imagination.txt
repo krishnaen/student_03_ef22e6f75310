@@ -1,0 +1,15 @@
+Logline: A brilliant 19th-century mathematician, Ada Lovelace, defies societal constraints and her famous father's shadow to collaborate with Charles Babbage, ultimately envisioning the true potential of the Analytical Engine and writing the world's first computer program, forever changing the course of technology.
+
+Three-Act Plot Outline:
+
+Act I: The Poet's Daughter, The Mathematician's Mind
+Young Ada Byron, daughter of the infamous Lord Byron, is raised by her mother to embrace logic and mathematics, a stark contrast to her father's poetic legacy. Despite her mother's efforts, Ada possesses a unique blend of analytical rigor and imaginative insight.
+Her intellectual curiosity leads her to the eccentric inventor Charles Babbage and his revolutionary Analytical Engine. Ada is immediately captivated, seeing beyond its mechanical gears to a future of possibilities that even Babbage himself cannot fully grasp.
+
+Act II: The Algorithm of Imagination
+Ada immerses herself in Babbage's work, becoming his intellectual partner and challenging his limited view of the Analytical Engine. She faces skepticism from the male-dominated scientific community and struggles with her own health and societal expectations.
+Driven by her concept of "poetical science," she translates Luigi Menabrea's article on the Analytical Engine, adding extensive notes that not only explain its mechanics but also outline a method for calculating Bernoulli numbers – effectively creating the world's first computer program and articulating a vision for computing beyond mere calculation, including the manipulation of music and art.
+
+Act III: A Vision for the Future
+Despite Ada's groundbreaking work, the Analytical Engine remains largely unbuilt, and her visionary ideas are not fully understood or appreciated by her contemporaries. She grapples with the frustration of her genius being ahead of her time.
+In her final years, Ada holds firm to her belief in the machine's ultimate potential, leaving behind a legacy of intellectual bravery and foresight. The film concludes by highlighting how her "Notes" laid the foundational concepts for the digital age, cementing her place as the prophetess of the computer.
