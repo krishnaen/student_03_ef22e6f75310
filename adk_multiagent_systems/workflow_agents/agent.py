@@ -25,8 +25,6 @@ model_name = os.getenv("MODEL")
 print(model_name)
 
 # Tools
-
-
 def append_to_state(
     tool_context: ToolContext, field: str, response: str
 ) -> dict[str, str]:
@@ -44,7 +42,6 @@ def append_to_state(
     logging.info(f"[Added to {field}] {response}")
     return {"status": "success"}
 
-
 def write_file(
     tool_context: ToolContext,
     directory: str,
@@ -59,7 +56,6 @@ def write_file(
 
 
 # Agents
-
 writers_room = LoopAgent(
     name="writers_room",
     description="Iterates through research and writing to improve a movie plot outline.",
@@ -204,5 +200,5 @@ root_agent = Agent(
         temperature=0,
     ),
     tools=[append_to_state],
-    sub_agents=[film_concept_team],
+    sub_agents=[film_concept_team]
 )
